@@ -1,0 +1,6 @@
+{
+    "chatgpt.model": "gpt-3.5-turbo",
+    "chatgpt.timeoutLength": 10,
+    "chat-gpt.apiKey": "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",
+    "deepscan.ignoreConfirmWarning": true
+}
